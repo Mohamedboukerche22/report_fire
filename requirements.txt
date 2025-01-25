@@ -13,5 +13,4 @@ packaging==24.0
 pycairo==1.27.0
 Pygments==2.18.0
 setuptools==75.6.0
-pygobject==3.42.0  
 
